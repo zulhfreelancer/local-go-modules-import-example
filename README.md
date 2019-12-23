@@ -9,3 +9,7 @@ replace zz.dev/go-github/v28 => /Users/my-name/go/src/go-github
 ```
 
 ...where `/Users/my-name/go` is my `$GOPATH`. Do note that I didn't put `/github` at the end of path on both sides. It worked.
+
+#### Further reading
+
+- https://github.com/golang/go/wiki/Modules#when-should-i-use-the-replace-directive
